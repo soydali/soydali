@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Efe</h1>
-<h3 align="center">I'm a frontend developer from Turkey</h3>
+<h3 align="center">I'm a fullstack developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Detect Traffic Accidents** and **Terra Chrome**
 
